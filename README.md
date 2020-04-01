@@ -6,7 +6,7 @@ import json
 
 from difflib import get_close_matches
 
-#Running the script
+# Running the script
 
 Open python terminal 
 
